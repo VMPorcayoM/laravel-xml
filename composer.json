@@ -1,7 +1,7 @@
 {
-  "name": "bmatovu/laravel-xml",
-  "description": "Laravel XML Support",
-  "homepage": "https://github.com/mtvbrianking/laravel-xml",
+  "name": "vmporcayom/laravel-xml",
+  "description": "Laravel XML Support with Tramite label",
+  "homepage": "https://github.com/VMPorcayoM/laravel-xml",
   "type": "library",
   "license": "MIT",
   "keywords": [
@@ -17,7 +17,13 @@
     "email": "mtvbrianking@gmail.com",
     "homepage": "http://bmatovu.com",
     "role": "Developer"
-  }],
+  },
+  {
+    "name": "Victor M Porcayo",
+    "email": "vmporcayom@hotmail.com",
+    "role": "Developer"
+  }
+],
   "require": {
     "php": "^7.2.5|^8.0",
     "illuminate/http": "^7.0|^8.0",
