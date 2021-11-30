@@ -22,7 +22,7 @@ class LaravelXmlServiceProvider extends ServiceProvider
          *
          * @return bool
          */
-        Request::macro('isXml', function () {
+        Request::macro('isXmcol', function () {
             return 'xml' === $this->getContentType();
         });
 

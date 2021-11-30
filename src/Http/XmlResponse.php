@@ -18,7 +18,7 @@ class XmlResponse extends BaseResponse
     public $headers = [];
 
     public $options = [
-        'root' => 'document',
+        'root' => 'Tramite',
         'encoding' => 'UTF-8',
         'version' => '1.0',
         'slug' => true,
